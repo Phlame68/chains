@@ -40,7 +40,7 @@ When an icon is used in either the network or an explorer, there must be a JSON 
 
 [
     {
-      "url": "ipfs://QmdwQDr6vmBtXmK2TmknkEuZNoaDqTasFdZdu3DRw8b2wt",
+      "url": "ipfs://0xA9160Fe87BD6c84e0EE51079F0531152eEf45B19",
       "width": 1000,
       "height": 1628,
       "format": "png"
